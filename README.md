@@ -58,11 +58,11 @@ SISGOADEM is a training project that manages the services of a restaurant, which
 </p>
 
 <p>
-  Once here, install the Yarn/npm dependencies.
+  Once here, install the npm dependencies.
 </p>
 
 ```bash
-  yarn install
+  npm install
 ```
 <br>
 
@@ -73,11 +73,11 @@ SISGOADEM is a training project that manages the services of a restaurant, which
 </p>
 
 ```bash
-  yarn dev
+  npm run dev
 ```
 
 <div align="center">
-	<img src="./public/img/backend_dev.png" alt="Backend running"/>
+	<img src="./public/npmrun.png" alt="Backend running"/>
 </div>
 
 <br>
@@ -87,7 +87,7 @@ SISGOADEM is a training project that manages the services of a restaurant, which
   For production, use:</p>
 
 ```bash
-  yarn star
+  npm star
 ```
 ---
 ### 💻Front-end
@@ -113,7 +113,7 @@ SISGOADEM is a training project that manages the services of a restaurant, which
   npm run dev
 ```
 <div align="center">
-	<img src="./public/img/frontend_dev.png" alt="Backend running"/>
+	
 </div>
 
 <br>
