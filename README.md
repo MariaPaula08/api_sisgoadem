@@ -48,48 +48,7 @@ SISGOADEM is a training project that manages the services of a restaurant, which
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<p>
-  In this project, it is possible to use Yarn as an alternative to npm.
-</p>
 
-### 🐱‍💻Back-end
-<p>
-  To run the server, start by navigating to the root directory of the <a href="./backend/">backend</a> 
-</p>
-
-<p>
-  Once here, install the npm dependencies.
-</p>
-
-```bash
-  npm install
-```
-<br>
-
-**Development**
-<p>
-  If you are using it in a development environment, use:
-
-</p>
-
-```bash
-  npm run dev
-```
-
-<div align="center">
-	<img src="./public/npmrun.png" alt="Backend running"/>
-</div>
-
-<br>
-
-**Production**
-<p>
-  For production, use:</p>
-
-```bash
-  npm star
-```
----
 ### 💻Front-end
 <p>
   To run the front-end view, navigate to the root directory of the <a href="./frontend/">frontend</a> 
